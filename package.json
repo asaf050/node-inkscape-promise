@@ -1,0 +1,25 @@
+{
+  "name": "node-inkscape",
+  "version": "0.0.1",
+  "description": "Interact with inkscape from NodeJS. *Requires inkscape to be installed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asaf050/node-inkscape.git"
+  },
+  "keywords": [
+    "pandoc",
+    "node",
+    "docx",
+    "markdown"
+  ],
+  "author": "Asaf Cohen <asafc@sgc.co.il>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asaf050/node-inkscape.git"
+  },
+  "homepage": "https://github.com/asaf050/node-inkscape.git#readme"
+}
