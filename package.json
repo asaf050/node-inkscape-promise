@@ -1,6 +1,6 @@
 {
   "name": "node-inkscape-promise",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Interact with inkscape from NodeJS. *Requires inkscape to be installed.",
   "main": "index.js",
   "scripts": {
@@ -11,10 +11,12 @@
     "url": "git+https://github.com/asaf050/node-inkscape-promise.git"
   },
   "keywords": [
-    "pandoc",
+    "inkscape",
     "node",
-    "docx",
-    "markdown"
+    "image",
+    "convert",
+    "picture",
+    "svg"
   ],
   "author": "Asaf Cohen <asafc@sgc.co.il>",
   "license": "MIT",
